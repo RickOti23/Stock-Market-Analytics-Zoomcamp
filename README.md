@@ -31,9 +31,6 @@ The project focuses on using RandomForestClassifier for the Machine Learning.
 ```bash
 git clone https://github.com/RickOti23/market-analytics.git
 cd market-analytics
-python -m venv venv
-source venv/bin/activate   # On macOS/Linux
-venv\Scripts\activate      # On Windows
 ```
 ### 2. Create an Environment
 ```bash
