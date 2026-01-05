@@ -48,4 +48,14 @@ pip install -r requirements.txt
 python main.py
 ```
 
-
+### Project layout
+``` text
+|-- scripts/
+|   |-- data_repo.py/
+|   |-- train.py/
+|   |-- transform.py/
+|-- main.py/
+|-- notebook.ipynb/
+|-- parquet_files.txt/
+|-- requirements.txt/
+|-- readme.md/
